@@ -1,0 +1,9 @@
+status_bucket_sort,status_bucket,order_status,orders,total_orders,pct_of_total
+1,delivered,delivered,96478,99441,97.02
+2,in_progress,shipped,1107,99441,1.11
+2,in_progress,invoiced,314,99441,0.32
+2,in_progress,processing,301,99441,0.3
+2,in_progress,approved,2,99441,0
+3,problem,canceled,625,99441,0.63
+3,problem,unavailable,609,99441,0.61
+4,other,created,5,99441,0.01

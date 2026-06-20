@@ -1,0 +1,4 @@
+delivery_timing,orders,pct_of_delivered_orders,avg_delay_days,median_delay_days,p90_delay_days,min_delay_days,max_delay_days
+late,6534,6.77,10.62,7,22,1,188
+on_time,1292,1.34,0,0,0,0,0
+early,88644,91.89,-13.71,-13,-6,-147,-1
